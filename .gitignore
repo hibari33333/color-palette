@@ -1,0 +1,12 @@
+.idea
+.sass-cache
+.DS_Store
+node_modules
+
+src/js/generator.js
+src/json/generator/*
+src/ejs/generator/*
+
+docs/assets/js/generator.js
+docs/assets/json/generator/*
+docs/generator/*
